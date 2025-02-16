@@ -10,5 +10,6 @@ export default defineConfig({
     watch: {
       usePolling: true,
     },
+    allowedHosts: ['movie-search-a6hscfb7a8gmasff.canadacentral-01.azurewebsites.net'],
   },
 });
